@@ -33,4 +33,4 @@ The analysis goes beyond surface-level averages — for example, high churn amon
 
 ## 🧭 Workflow
 
-![Project Workflow](Project%20Workflow.png)
+![Project Workflow](Project%20Workflow.jpeg)
