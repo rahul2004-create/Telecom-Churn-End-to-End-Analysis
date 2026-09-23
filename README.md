@@ -1,6 +1,3 @@
-# 📊 Telecom Customer Churn Analysis
-
-### End-to-End Data Analytics Project | Python · SQL · Power BI
 
 ---
 
@@ -35,3 +32,5 @@ The analysis goes beyond surface-level averages — for example, high churn amon
 ---
 
 ## 🧭 Workflow
+
+![Project Workflow](Project%20Workflow.png)
